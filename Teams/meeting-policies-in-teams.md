@@ -43,7 +43,7 @@ Meeting policies are used to control the features that are available to meeting 
 ## Content sharing
    - **Screen sharing mode** You can select the screen sharing mode. This will be the size of the screen that will be used during a meeting that a user assigned with the policy can use.
    - **Allow a participant to give or request control** This allows all participants in a meeting to give and request control of screen sharing.
-   - **Allow an external participant to give or request control** This allows an external (someone not part of your organziation) participant to give and request control of a meeting when the screen is being shared.
+   - **Allow an external participant to give or request control** This allows an external (someone not part of your organization) participant to give and request control of a meeting when the screen is being shared.
    - **Allow PowerPoint sharing** If you turn this on, users that schedule meetings can share PowerPoint slide decks during a meeting.
    - **Allow whiteboard** If you turn this on, the whiteboard will be available to meeting participants during a meeting.
    - **Allow shared notes** If you turn this on, shared notes will be available to meeting participants during a meeting.
